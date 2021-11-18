@@ -298,6 +298,45 @@
       "latitude": "18.6466",
       "longitude": "0.5587",
       "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/ssiskind/128.jpg"
+    },
+    {
+      "name": "Soledad Hessel",
+      "dob": "1954-2-10",
+      "email": "Soledad.Hessel@gmail.com",
+      "username": "Soledad52",
+      "password": "hp923eurJfWhNBW",
+      "phone": "(706) 218-6209 x8493",
+      "streetaddress": "42311 Feest Locks",
+      "citystatezip": "South Eugenialand, WI 36533",
+      "latitude": "-84.6741",
+      "longitude": "150.0601",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/macxim/128.jpg"
+    },
+    {
+      "name": "Clarabelle Kohler",
+      "dob": "1958-1-22",
+      "email": "Clarabelle_Kohler@gmail.com",
+      "username": "Clarabelle32",
+      "password": "KKmRLMyD1GVMoko",
+      "phone": "314-407-5403",
+      "streetaddress": "452 Glenda Point",
+      "citystatezip": "Susannamouth, SD 63775",
+      "latitude": "27.9498",
+      "longitude": "26.8092",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/jay_wilburn/128.jpg"
+    },
+    {
+      "name": "Madge Mitchell DDS",
+      "dob": "1959-12-2",
+      "email": "Madge4@hotmail.com",
+      "username": "Madge_Mitchell8",
+      "password": "sS2iWAOj0vEzfWR",
+      "phone": "972-745-8179 x38756",
+      "streetaddress": "64395 Haley Wells",
+      "citystatezip": "South Lennytown, OK 58729-3792",
+      "latitude": "54.4404",
+      "longitude": "71.1082",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/_scottburgess/128.jpg"
     }
   ]
 }
