@@ -61,7 +61,12 @@ it('verify data', async done => {
     expect(data.body.some(e => e.name === user2.name)).toBeTruthy();
     expect(data.body.some(e => e.name === user3.name)).toBeTruthy();
     done();
-})  
+})
+
+it('test fails', async done => {
+    expect(false).toBeTruthy;
+})    
+
 
 //var server = app.listen(3000, function(){
 //    console.log('Running on port 3000');
